@@ -1,0 +1,23 @@
+{
+    "brand": "Photo Book",
+    "Menu": [
+        {
+            "icon": "fa fa-home",
+            "label": "HOME",
+            "link": "/",
+            "view": "Home"
+        },
+        {
+            "icon": "fa fa-home",
+            "label": "LOGIN",
+            "link": "/login",
+            "view": "Login"
+        },
+        {
+            "icon": "fa fa-home",
+            "label": "REGISTER",
+            "link": "/register",
+            "view": "Register"
+        }
+    ]
+}
